@@ -1,18 +1,4 @@
-# NOTICE:
 
-You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. [Read more here](https://amethystnetwork-dev.github.io/docs/static-hosts).
-
-<!--
-                                _     _                     _       _   _          _                               _    
-     /\                        | |   | |                   | |     | \ | |        | |                             | |   
-    /  \     _ __ ___     ___  | |_  | |__    _   _   ___  | |_    |  \| |   ___  | |_  __      __   ___    _ __  | | __
-   / /\ \   | '_ ` _ \   / _ \ | __| | '_ \  | | | | / __| | __|   | . ` |  / _ \ | __| \ \ /\ / /  / _ \  | '__| | |/ /
-  / ____ \  | | | | | | |  __/ | |_  | | | | | |_| | \__ \ | |_    | |\  | |  __/ | |_   \ V  V /  | (_) | | |    |   < 
- /_/    \_\ |_| |_| |_|  \___|  \__| |_| |_|  \__, | |___/  \__|   |_| \_|  \___|  \__|   \_/\_/    \___/  |_|    |_|\_\
-                                               __/ |                                                                    
-                                              |___/                                                                     
--->
-<!-- The font is called Big, if you are wondering -->
 <div align="center">
          
 <img src="https://socialify.git.ci/amethystnetwork-dev/Incognito/image?description=1&descriptionEditable=Access%20the%20world%20wide%20web&font=Inter&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Famethystnetwork-dev%2FIncognito%2Fmain%2Fstatic%2Findex.svg&name=1&owner=1&pattern=Solid&stargazers=1&theme=Auto" alt="Incognito" width="640" height="320" />
@@ -41,9 +27,6 @@ You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. [Read m
     <a href="https://amethystnetwork-dev.github.io/docs/projects/incognito/manual-deployment/#docker-with-nodejs"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></img></a>
 </div>
 
-## Discord Server
-
-[![Join us on Discord](https://invidget.switchblade.xyz/985982201302769765?theme=light)](https://amethystnetwork-dev.github.io/discord/invite)
 
 ## Overview
 
@@ -61,30 +44,19 @@ You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. [Read m
 
 ## FAQ
 
-**How can I get official Incognito domains?**
-
-You should join the official Titanium Network Discord for official links
-
-[![Titanium Network Discord](https://invidget.switchblade.xyz/unblock?theme=light)](https://discord.gg/unblock)
-
+]
 **Who is this repo for?**
 
-This repo is for people that want an easy way to deploy Incognito to cloud hosting services. If you just want to use Incognito and not deploy it, I recommend you get an official Incognito domain (Check above for how to do so)
+This repo is for people that want an easy way to deploy Incognito to cloud hosting services. If you just want to use EpicProxy and not deploy it, I recommend you get an official EpicProxy domain (Check above for how to do so)
 
-**Where are the game files?**
 
-They are located in [another repo](https://github.com/amethystnetwork-dev/Incognito-gfiles) because of the large file sizes.
 
 **What proxies are used?**
 
-Incognito uses [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) as its only proxy.
+EpicProxy uses [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) as its only proxy.
 
 Ultraviolet has some known limitations such as downloading files can be buggy and pages may not load.
 
 **My question is not answered**
 
-Because we can't answer every question here, you may want to check the [docs](https://amethystnetwork-dev.github.io/docs/category/incognito). If you still have questions, you might want to join our Discord [#discord-server (link)](#discord-server)
-
-## Credits
-
-[Caracal.js](https://github.com/caracal-js) - Creator of Incognito
+=
